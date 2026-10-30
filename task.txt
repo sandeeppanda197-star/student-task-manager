@@ -1,0 +1,5 @@
+1. Learn Linux
+2. Learn Git
+3. Learn GitHub
+4. Learn AWS
+5. Learn Docker
