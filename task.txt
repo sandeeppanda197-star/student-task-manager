@@ -3,3 +3,4 @@
 3. Learn GitHub
 4. Learn AWS
 5. Learn Docker
+6. Learn Docker compose
